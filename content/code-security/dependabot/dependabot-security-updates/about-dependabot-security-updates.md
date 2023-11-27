@@ -82,3 +82,5 @@ When you merge a pull request that contains a security update, the corresponding
 ## About notifications for {% data variables.product.prodname_dependabot %} security updates
 
 You can filter your notifications on {% data variables.product.company_short %} to show {% data variables.product.prodname_dependabot %} security updates. For more information, see "[AUTOTITLE](/account-and-profile/managing-subscriptions-and-notifications-on-github/viewing-and-triaging-notifications/managing-notifications-from-your-inbox#dependabot-custom-filters)."
+
+
