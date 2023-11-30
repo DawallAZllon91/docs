@@ -1,4 +1,7 @@
----
+curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer dOSAgwBZfnfBlCFZ5TmmKuOkRXHtbkidUC97-NWh" \
+          -H "Content-Type:application/json"---
+          
 title: Changing the shell in a codespace
 shortTitle: Change your shell
 intro: You can change your shell in a codespace to keep the setup you're used to.
